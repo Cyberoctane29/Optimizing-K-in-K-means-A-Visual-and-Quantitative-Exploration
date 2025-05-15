@@ -1,2 +1,3 @@
-# Optimizing K in K-means: A Visual and Quantitative Exploration
+# Tuning K in K-means: From Visual Image Compression to Quantitative Cluster Evaluation
+
 This project demonstrates K-means clustering through two complementary approaches: first by compressing image colors through pixel clustering in RGB space, then by evaluating cluster quality in high-dimensional data using inertia and silhouette scores. The visual intuition gained from image compression provides a foundation for understanding how K-means optimizes groupings, while the mathematical evaluation methods offer rigorous techniques for determining optimal clusters when visualization isn't possible. Together, these applications showcase K-means' versatility in transforming both visual and abstract data into meaningful patterns through optimization of cluster assignments and selection of the ideal k-value.
