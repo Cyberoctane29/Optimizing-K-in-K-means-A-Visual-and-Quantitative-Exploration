@@ -4,7 +4,7 @@ This project explores the application of **K-means clustering** for **color comp
 
 ## **Project Overview**  
 
-The **Optimizing K in K-means** project aims to:  
+The project aims to:  
 
 - **Demonstrate K-means Clustering**: Apply K-means to perform **color compression** on a photograph of tulips, visualizing RGB distributions in 3D space.  
 - **Evaluate Optimal Cluster Count**: Use **inertia** (within-cluster sum of squares) and **silhouette scores** to determine the best *k* for synthetic data.  
